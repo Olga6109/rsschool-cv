@@ -8,6 +8,7 @@
 
 # Summary
     Self-motivated, creative, interested to details.
+    Currently work as procurement spesialist in EPAM.
 
 # Skills
     Primary skills of HTML5/CSS3
